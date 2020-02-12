@@ -1,0 +1,53 @@
+
+body {
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+
+}
+#container {
+  background-color: white;
+  width: 600px;
+  margin-right: auto;
+  align-items: center;
+  
+  
+}
+#header {
+  background-color: #95C380;
+  color:white;
+  text-align: center;
+  width: 200px;
+  position: relative;
+}
+td {
+  color: #FEBC67;
+}
+  
+.addSkillBtn {
+  color: #95C380;
+  background-color:white;
+  border: 3px solid #95C380
+  
+
+}
+input {
+  border: 3px solid #95C380;
+  width: 510px;
+}
+
+.skillContainer {
+  text-align: right;
+
+}
+
+.remove {
+  color: white;
+  background-color: #DE6769;
+  margin-right: 32px;
+  border-radius: 30%;
+}
+
+/*tbody {
+  height: 50px;
+}*/
